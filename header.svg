@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Rohit Malik - Aspiring Data Scientist">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#242044"/></linearGradient><linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#22d3ee" stroke-opacity=".16"><path d="M0 240L120 170L240 210L360 110L480 155L600 75L720 120L840 50L960 90L1080 35L1200 70"/><path d="M0 270L200 230L400 250L600 180L800 220L1000 150L1200 180"/></g>
+<rect x="500" y="62" width="200" height="4" rx="2" fill="url(#accent)"/>
+<text x="600" y="137" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">Rohit Malik</text>
+<text x="600" y="184" fill="#22d3ee" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26">Aspiring Data Scientist</text>
+<text x="600" y="228" fill="#c4b5fd" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18">DATA SCIENCE · MACHINE LEARNING · REAL-WORLD IMPACT</text>
+</svg>
